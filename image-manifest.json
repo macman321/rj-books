@@ -1,0 +1,158 @@
+{
+  "book": "Stephen's New Friends",
+  "total_images": 19,
+  "images": [
+    {
+      "spread": 1,
+      "pages": "1-2",
+      "title": "Title Page",
+      "filename": "stephen-cover-concept---7d02effb-8956-4896-8aa4-0bbd93415c0d.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-cover-concept---7d02effb-8956-4896-8aa4-0bbd93415c0d.png",
+      "status": "generated"
+    },
+    {
+      "spread": 2,
+      "pages": "3-4",
+      "title": "Meet Stephen",
+      "filename": "stephen-spread2-intro---cdb13b8b-3314-4d6a-a34a-7ebc82778c21.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread2-intro---cdb13b8b-3314-4d6a-a34a-7ebc82778c21.png",
+      "status": "generated"
+    },
+    {
+      "spread": 3,
+      "pages": "5-6",
+      "title": "The Friends Across the Street",
+      "filename": "stephen-spread5-neighbors---c7a19ffe-b00f-4182-adbb-f2df89e12c3d.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread5-neighbors---c7a19ffe-b00f-4182-adbb-f2df89e12c3d.png",
+      "status": "generated"
+    },
+    {
+      "spread": 4,
+      "pages": "7-8",
+      "title": "One Day...",
+      "filename": "stephen-spread7-empty---4332a712-1ef2-4516-9c9e-9df5d02c58c9.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread7-empty---4332a712-1ef2-4516-9c9e-9df5d02c58c9.png",
+      "status": "generated"
+    },
+    {
+      "spread": 5,
+      "pages": "9-10",
+      "title": "The Bad Day",
+      "filename": "stephen-spread5-sad---9b7c18fd-80dc-4e7e-9969-6a07c5613897.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread5-sad---9b7c18fd-80dc-4e7e-9969-6a07c5613897.png",
+      "status": "generated"
+    },
+    {
+      "spread": 6,
+      "pages": "11-12",
+      "title": "Jackson Knows",
+      "filename": "stephen-spread7-comfort---f587a6bb-18d8-4f17-8c61-60764298a1ae.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread7-comfort---f587a6bb-18d8-4f17-8c61-60764298a1ae.png",
+      "status": "generated"
+    },
+    {
+      "spread": 7,
+      "pages": "13-14",
+      "title": "Mommy and Daddy Help",
+      "filename": "stephen-spread13-parents---05470dc4-ff88-4c6f-b6eb-c8cb6b4b4746.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread13-parents---05470dc4-ff88-4c6f-b6eb-c8cb6b4b4746.png",
+      "status": "generated"
+    },
+    {
+      "spread": 8,
+      "pages": "15-16",
+      "title": "A Few Days Later",
+      "filename": "stephen-spread8-cement---ad54c70f-6d2c-431a-ad92-641ee3b657b4.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread8-cement---ad54c70f-6d2c-431a-ad92-641ee3b657b4.png",
+      "status": "generated"
+    },
+    {
+      "spread": 9,
+      "pages": "17-18",
+      "title": "Daddy's Promise",
+      "filename": "stephen-spread17-promise---c02eaffa-21c4-40df-9b02-b259c3a2c0be.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread17-promise---c02eaffa-21c4-40df-9b02-b259c3a2c0be.png",
+      "status": "generated"
+    },
+    {
+      "spread": 10,
+      "pages": "19-20",
+      "title": "Every Morning",
+      "filename": "stephen-spread10-morning---b070728a-b447-4c35-980b-c89b58cd2d90.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread10-morning---b070728a-b447-4c35-980b-c89b58cd2d90.png",
+      "status": "generated"
+    },
+    {
+      "spread": 11,
+      "pages": "21-22",
+      "title": "Breakfast with Jackson",
+      "filename": "stephen-spread21-breakfast---a03a6347-2e8e-42cd-9f6f-6d6d26c08d08.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread21-breakfast---a03a6347-2e8e-42cd-9f6f-6d6d26c08d08.png",
+      "status": "generated"
+    },
+    {
+      "spread": 12,
+      "pages": "23-24",
+      "title": "New Trees",
+      "filename": "stephen-spread12-trees---dee8eb3e-1826-475a-a1bf-2e141a3ef785.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread12-trees---dee8eb3e-1826-475a-a1bf-2e141a3ef785.png",
+      "status": "generated"
+    },
+    {
+      "spread": 13,
+      "pages": "25-26",
+      "title": "Where Are They?",
+      "filename": "stephen-spread25-waiting---64875365-4ec2-4f08-9011-4c673039851d.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread25-waiting---64875365-4ec2-4f08-9011-4c673039851d.png",
+      "status": "generated"
+    },
+    {
+      "spread": 14,
+      "pages": "27-28",
+      "title": "The Moving Van",
+      "filename": "stephen-spread14-moving---7ded8fd4-862b-42c8-9fd3-b04607df3359.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread14-moving---7ded8fd4-862b-42c8-9fd3-b04607df3359.png",
+      "status": "generated"
+    },
+    {
+      "spread": 15,
+      "pages": "29-30",
+      "title": "Meet Nora",
+      "filename": "stephen-spread29-nora---606cad7e-6829-4ed0-8981-5dc4259d81ec.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread29-nora---606cad7e-6829-4ed0-8981-5dc4259d81ec.png",
+      "status": "generated"
+    },
+    {
+      "spread": 16,
+      "pages": "31-32",
+      "title": "Nervous Stephen",
+      "filename": "stephen-spread16-hello---d43d8b2e-5d1b-4710-b127-0adbee6b90cf.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread16-hello---d43d8b2e-5d1b-4710-b127-0adbee6b90cf.png",
+      "status": "generated"
+    },
+    {
+      "spread": 17,
+      "pages": "33-34",
+      "title": "Saying Hello",
+      "filename": "stephen-spread17-nora---51b53560-89ff-4aa1-a4ba-032fa47dfcc3.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread17-nora---51b53560-89ff-4aa1-a4ba-032fa47dfcc3.png",
+      "status": "generated"
+    },
+    {
+      "spread": 18,
+      "pages": "35-36",
+      "title": "The Beginning",
+      "filename": "stephen-spread18-happy---0dfa4607-cc42-415d-8da9-d9dba2f908b3.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-spread18-happy---0dfa4607-cc42-415d-8da9-d9dba2f908b3.png",
+      "status": "generated"
+    },
+    {
+      "spread": "Back",
+      "pages": "Back Cover",
+      "title": "RJ-Books Back Cover",
+      "filename": "stephen-back-cover---6d7b2654-a115-4983-a9da-9f944fed12d3.png",
+      "path": "/Users/jarvis/.openclaw/media/tool-image-generation/stephen-back-cover---6d7b2654-a115-4983-a9da-9f944fed12d3.png",
+      "status": "generated"
+    }
+  ]
+}
